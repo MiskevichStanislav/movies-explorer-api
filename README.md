@@ -33,4 +33,6 @@
  - Если запрос не соответствует схеме, обработка не передаётся контроллеру, и клиент получает ошибку валидации.
 данные валидируются перед добавлением в базу.
 ---
+# [План работы над дипломным проектом (Online)](https://trello.com/b/CbFnh2HD/project-diploma-work)
+# [Индивидуальный макет в Figm'e](https://www.figma.com/file/mIrPoMCYLA3glp9KZDm7yt/Diploma-(Copy)?node-id=891%3A3857)
 ## [Дипломный проект(сервер)](https://mydiplomapi.nomoredomains.xyz)
