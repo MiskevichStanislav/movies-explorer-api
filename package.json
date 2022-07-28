@@ -1,7 +1,7 @@
 {
   "name": "movies-explorer-api",
   "version": "1.0.0",
-  "description": "",
+  "description": "Дипломная работа + портфолио Мискевича Станислава",
   "main": "app.js",
   "scripts": {
     "start": "node app.js",
@@ -24,6 +24,7 @@
     "cors": "^2.8.5",
     "dotenv": "^16.0.1",
     "express-winston": "^4.2.0",
+    "express-rate-limit": "^6.4.0",
     "winston": "^3.8.1",
     "helmet": "^5.1.0",
     "cookie-parser": "^1.4.6",
